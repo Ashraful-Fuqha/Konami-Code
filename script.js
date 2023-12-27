@@ -13,3 +13,9 @@ window.addEventListener('keyup', e => {
     }
     console.log(pressed)
 })
+
+window.addEventListener('click', () =>{
+    if(window.screen.availWidth <= 375){
+        cornify_add();
+    }
+})
