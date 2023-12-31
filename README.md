@@ -4,7 +4,7 @@ Hello everyone! Today, I want to share a fun piece of code that brings the class
 
 This is a fun way to add hidden features or easter eggs to your website. Try it out and let me know what you think!
 
-HINT : 'JFARADIQSAM'
+HINT : 'What is full of holes but still holds water'
 
 ![](d.png)
 [Live Site Link](https://ashraful-fuqha.github.io/konami-code/)
